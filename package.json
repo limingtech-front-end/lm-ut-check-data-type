@@ -1,0 +1,19 @@
+{
+  "name": "lm-ut-check-data-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git"
+  },
+  "author": "littlstonee <littlstonee@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/lm-ut-check-data-type/issues"
+  },
+  "homepage": "https://github.com/limingtech-front-end/lm-ut-check-data-type#readme"
+}
