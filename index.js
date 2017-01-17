@@ -1,12 +1,12 @@
-import checkFactory from './lib/data-type-prototype-check-factory'
-export default {
+var checkFactory = require('./lib/data-type-prototype-check-factory')
+module.exports={
 	isString:checkFactory('String'),
 	isObject:checkFactory('Object'),
 	isFunction:checkFactory('Function'),
-	isInteger(value){
+	isInteger:function(value){
 		return Number.isInteger(value)
 	},
-	isEmpty(value){
+	isEmpty:function(value){
 		if(value){
 			if(String(value).trim().length){
 				return false

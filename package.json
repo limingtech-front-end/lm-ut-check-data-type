@@ -1,19 +1,80 @@
 {
-  "name": "lm-ut-check-data-type",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "lm-ut-check-data-type@git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+        "scope": null,
+        "escapedName": "lm-ut-check-data-type",
+        "name": "lm-ut-check-data-type",
+        "rawSpec": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+        "spec": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:limingtech-front-end/lm-ut-check-data-type.git",
+          "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-ut-check-data-type.git",
+          "httpsUrl": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+          "gitUrl": "git://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+          "shortcut": "github:limingtech-front-end/lm-ut-check-data-type",
+          "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-ut-check-data-type/master/package.json"
+        }
+      },
+      "D:\\Projects\\vsa\\node_modules\\lm-ut-calc-uri-params"
+    ]
+  ],
+  "_from": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+  "_id": "lm-ut-check-data-type@1.0.0",
+  "_inCache": true,
+  "_location": "/lm-ut-check-data-type",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lm-ut-check-data-type@git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+    "scope": null,
+    "escapedName": "lm-ut-check-data-type",
+    "name": "lm-ut-check-data-type",
+    "rawSpec": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+    "spec": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:limingtech-front-end/lm-ut-check-data-type.git",
+      "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-ut-check-data-type.git",
+      "httpsUrl": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+      "gitUrl": "git://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+      "shortcut": "github:limingtech-front-end/lm-ut-check-data-type",
+      "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-ut-check-data-type/master/package.json"
+    }
   },
+  "_requiredBy": [
+    "/lm-ut-calc-uri-params"
+  ],
+  "_resolved": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git#ccfaf1971cf8c23816d860d88eeb535f9f8c5417",
+  "_shasum": "29c3bfb0a4dec0a457461113b8dc6dfb4b7c3b53",
+  "_shrinkwrap": null,
+  "_spec": "lm-ut-check-data-type@git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+  "_where": "D:\\Projects\\vsa\\node_modules\\lm-ut-calc-uri-params",
+  "author": {
+    "name": "littlstonee",
+    "email": "littlstonee@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/lm-ut-check-data-type/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "gitHead": "ccfaf1971cf8c23816d860d88eeb535f9f8c5417",
+  "homepage": "https://github.com/limingtech-front-end/lm-ut-check-data-type#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "lm-ut-check-data-type",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git"
   },
-  "author": "littlstonee <littlstonee@hotmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/limingtech-front-end/lm-ut-check-data-type/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/limingtech-front-end/lm-ut-check-data-type#readme"
+  "version": "1.0.0"
 }
