@@ -20,6 +20,27 @@
         }
       },
       "D:\\Projects\\vsa\\node_modules\\lm-ut-calc-uri-params"
+    ],
+    [
+      {
+        "raw": "lm-ut-check-data-type@git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+        "scope": null,
+        "escapedName": "lm-ut-check-data-type",
+        "name": "lm-ut-check-data-type",
+        "rawSpec": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+        "spec": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:limingtech-front-end/lm-ut-check-data-type.git",
+          "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-ut-check-data-type.git",
+          "httpsUrl": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+          "gitUrl": "git://github.com/limingtech-front-end/lm-ut-check-data-type.git",
+          "shortcut": "github:limingtech-front-end/lm-ut-check-data-type",
+          "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-ut-check-data-type/master/package.json"
+        }
+      },
+      "D:\\Tests\\nativehybrid\\mail-icar\\node_modules\\lm-ut-calc-uri-params"
     ]
   ],
   "_from": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
@@ -48,11 +69,11 @@
   "_requiredBy": [
     "/lm-ut-calc-uri-params"
   ],
-  "_resolved": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git#ccfaf1971cf8c23816d860d88eeb535f9f8c5417",
-  "_shasum": "29c3bfb0a4dec0a457461113b8dc6dfb4b7c3b53",
+  "_resolved": "git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git#2b09301330dd5ee2831d627348ae55f5f2e609cf",
+  "_shasum": "272de069d7e85aa673a6da7269eed9571e414925",
   "_shrinkwrap": null,
   "_spec": "lm-ut-check-data-type@git+https://github.com/limingtech-front-end/lm-ut-check-data-type.git",
-  "_where": "D:\\Projects\\vsa\\node_modules\\lm-ut-calc-uri-params",
+  "_where": "D:\\Tests\\nativehybrid\\mail-icar\\node_modules\\lm-ut-calc-uri-params",
   "author": {
     "name": "littlstonee",
     "email": "littlstonee@hotmail.com"
